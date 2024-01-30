@@ -18,9 +18,9 @@ The directory contains a sample case with three MRI scans corresponding to three
 
 To use the repository, follow these general steps:
 
-**Feature Extraction:** Execute scripts in the FeatureExtraction directory to extract clinical guideline driven features from MRI masks.
-**Visualisation:** Execute scripts in the Visualisation directory to obtain visualisations of the axial views of the tumour with the delineated tumour.
-**Report Generation:** Execute scripts in the ReportGeneration directory to generate reports summarising the tumour behavior over time.
+* **Feature Extraction:** Execute scripts in the FeatureExtraction directory to extract clinical guideline driven features from MRI masks.
+* **Visualisation:** Execute scripts in the Visualisation directory to obtain visualisations of the axial views of the tumour with the delineated tumour.
+* **Report Generation:** Execute scripts in the ReportGeneration directory to generate reports summarising the tumour behavior over time.
 
 
 ### Requirements
