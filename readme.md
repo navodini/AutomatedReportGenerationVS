@@ -6,7 +6,7 @@ Wijethilake, N. , Connor, S., Oviedova, A., Burger, R., De Leon De Sagun, J., Hi
 
 Wijethilake, N., Connor, S., Oviedova, A., Burger, R., Vercauteren, T., & Shapey, J. (2023). A Clinical Guideline Driven Automated Linear Feature Extraction for Vestibular Schwannoma (Accepted - SPIE Medical Imaging 2024) https://doi.org/10.48550/ARXIV.2310.19392
 
-![model](outline.pdf)
+![model](outline.png)
 
 ### SampleCase
 
