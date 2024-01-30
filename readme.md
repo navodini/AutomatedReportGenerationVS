@@ -2,7 +2,7 @@
 
 This is the official implementation of the study **'Artificial intelligence for personalised management of vestibular schwannoma: A multidisciplinary clinical implementation study'**.
 
-Wijethilake, N. , Connor, S., Oviedova, A., Burger, R., De Leon De Sagun, J., Hitchings, A., ... & Shapey, J. (2023). Artificial intelligence for personalised management of vestibular schwannoma: A clinical implementation study within a multidisciplinary decision making environment. (Submitted - Lancet Digital Health) https://doi.org/10.1101/2023.11.17.23298685
+Wijethilake, N. , Connor, S., Oviedova, A., Burger, R., De Leon De Sagun, J., Hitchings, A., ... & Shapey, J. (2023). Artificial intelligence for personalised management of vestibular schwannoma: A clinical implementation study within a multidisciplinary decision making environment. (Under review) https://doi.org/10.1101/2023.11.17.23298685
 
 Wijethilake, N., Connor, S., Oviedova, A., Burger, R., Vercauteren, T., & Shapey, J. (2023). A Clinical Guideline Driven Automated Linear Feature Extraction for Vestibular Schwannoma (Accepted - SPIE Medical Imaging 2024) https://doi.org/10.48550/ARXIV.2310.19392
 
