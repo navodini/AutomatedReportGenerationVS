@@ -1,0 +1,128 @@
+{
+    "ID": "12307222", 
+    "Time_point": "MR-20140706", 
+    "MRI_modality": "T1C", 
+    "Positive_planes": 11, 
+    "boundary_bb": [
+        [
+            72.80933779478069, 
+            106.80933779478069, 
+            17.80933779478069
+        ], 
+        [
+            121.19066220521931, 
+            147.19066220521933, 
+            52.19066220521931
+        ]
+    ], 
+    "boundary_bb_extended": [
+        [
+            0, 
+            104.37120535373683, 
+            15.371205353736826
+        ], 
+        [
+            256, 
+            149.62879464626317, 
+            54.628794646263174
+        ]
+    ], 
+    "max3dDiameter": 16.738, 
+    "max3dCoordinates": [
+        [
+            103, 
+            130, 
+            30
+        ], 
+        [
+            102, 
+            121, 
+            40
+        ]
+    ], 
+    "2dFeaturePlane": 34, 
+    "markupPoint": [
+        34, 
+        33, 
+        34
+    ], 
+    "maxAxialDiameter": 21.328, 
+    "maxAxialDiameterCoordinates": [
+        [
+            34, 
+            134
+        ], 
+        [
+            34, 
+            124
+        ]
+    ], 
+    "maxExtraMeatalDiameter": 14.788, 
+    "maxExtraMeatalDiameterCoordinates": [
+        [
+            107, 
+            131, 
+            34
+        ], 
+        [
+            92, 
+            121, 
+            34
+        ]
+    ], 
+    "maxIAMDiameter": 22.087, 
+    "maxIAMDiameterCoordinates": [
+        [
+            85, 
+            134, 
+            34
+        ], 
+        [
+            110, 
+            124, 
+            34
+        ]
+    ], 
+    "VolumeExtra": 1375.727, 
+    "VolumeIntra": 274.54, 
+    "VolumeWhole": 1650.267, 
+    "maxParaIntraDiameter": 9.281, 
+    "maxParaIntraDiameterCoordinates": [
+        [
+            92, 
+            126, 
+            34
+        ], 
+        [
+            100, 
+            134, 
+            34
+        ]
+    ], 
+    "maxParaExtraDiameter": 13.921, 
+    "maxParaExtraDiameterCoordinates": [
+        [
+            92, 
+            121, 
+            34
+        ], 
+        [
+            104, 
+            133, 
+            34
+        ]
+    ], 
+    "maxPerpendExtraDiameter": 10.441, 
+    "maxPerpendExtraDiameterCoordinates": [
+        [
+            98, 
+            131, 
+            34
+        ], 
+        [
+            107, 
+            122, 
+            34
+        ]
+    ]
+}

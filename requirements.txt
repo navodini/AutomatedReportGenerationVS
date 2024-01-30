@@ -1,0 +1,10 @@
+cupy-cuda11x
+nibabel
+numpyencoder
+tqdm
+nilearn
+scikit-image
+sympy
+fpdf2
+matplotlib
+openpyxl

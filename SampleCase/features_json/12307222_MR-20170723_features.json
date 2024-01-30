@@ -1,0 +1,128 @@
+{
+    "ID": "12307222", 
+    "Time_point": "MR-20170723", 
+    "MRI_modality": "T1C", 
+    "Positive_planes": 8, 
+    "boundary_bb": [
+        [
+            74.80933779478069, 
+            103.80933779478069, 
+            17.80933779478069
+        ], 
+        [
+            118.19066220521931, 
+            142.19066220521933, 
+            49.19066220521931
+        ]
+    ], 
+    "boundary_bb_extended": [
+        [
+            0, 
+            101.37120535373683, 
+            15.371205353736826
+        ], 
+        [
+            256, 
+            144.62879464626317, 
+            51.628794646263174
+        ]
+    ], 
+    "max3dDiameter": 15.089, 
+    "max3dCoordinates": [
+        [
+            95, 
+            117, 
+            31
+        ], 
+        [
+            102, 
+            130, 
+            37
+        ]
+    ], 
+    "2dFeaturePlane": 33, 
+    "markupPoint": [
+        25, 
+        23, 
+        33
+    ], 
+    "maxAxialDiameter": 15.779, 
+    "maxAxialDiameterCoordinates": [
+        [
+            33, 
+            123
+        ], 
+        [
+            33, 
+            126
+        ]
+    ], 
+    "maxExtraMeatalDiameter": 12.521, 
+    "maxExtraMeatalDiameterCoordinates": [
+        [
+            93, 
+            118, 
+            33
+        ], 
+        [
+            106, 
+            126, 
+            33
+        ]
+    ], 
+    "maxIAMDiameter": 16.59, 
+    "maxIAMDiameterCoordinates": [
+        [
+            87, 
+            123, 
+            33
+        ], 
+        [
+            107, 
+            126, 
+            33
+        ]
+    ], 
+    "VolumeExtra": 545.043, 
+    "VolumeIntra": 272.521, 
+    "VolumeWhole": 817.564, 
+    "maxParaIntraDiameter": 9.878, 
+    "maxParaIntraDiameterCoordinates": [
+        [
+            93, 
+            119, 
+            33
+        ], 
+        [
+            101, 
+            128, 
+            33
+        ]
+    ], 
+    "maxParaExtraDiameter": 11.036, 
+    "maxParaExtraDiameterCoordinates": [
+        [
+            93, 
+            118, 
+            33
+        ], 
+        [
+            102, 
+            128, 
+            33
+        ]
+    ], 
+    "maxPerpendExtraDiameter": 6.407, 
+    "maxPerpendExtraDiameterCoordinates": [
+        [
+            98, 
+            124, 
+            33
+        ], 
+        [
+            104, 
+            119, 
+            33
+        ]
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "ID": "12307222", 
+    "Time_point": "MR-20111108", 
+    "MRI_modality": "T2", 
+    "Positive_planes": 69, 
+    "boundary_bb": [
+        [
+            123.55551456398413, 
+            0, 
+            199.55551456398413
+        ], 
+        [
+            253.99999962747097, 
+            75, 
+            320.99999962747097
+        ]
+    ], 
+    "boundary_bb_extended": [
+        [
+            0, 
+            0, 
+            193.86661747678096
+        ], 
+        [
+            512, 
+            75, 
+            325.99999955296516
+        ]
+    ], 
+    "max3dDiameter": 26.609, 
+    "max3dCoordinates": [
+        [
+            182, 
+            5, 
+            239
+        ], 
+        [
+            217, 
+            53, 
+            278
+        ]
+    ], 
+    "2dFeaturePlane": 256, 
+    "markupPoint": [
+        397, 
+        40, 
+        256
+    ], 
+    "maxAxialDiameter": 28.324, 
+    "maxAxialDiameterCoordinates": [
+        [
+            256, 
+            51
+        ], 
+        [
+            256, 
+            23
+        ]
+    ], 
+    "maxExtraMeatalDiameter": 22.892, 
+    "maxExtraMeatalDiameterCoordinates": [
+        [
+            207, 
+            59, 
+            256
+        ], 
+        [
+            189, 
+            4, 
+            256
+        ]
+    ], 
+    "maxIAMDiameter": 28.766, 
+    "maxIAMDiameterCoordinates": [
+        [
+            156, 
+            53, 
+            248
+        ], 
+        [
+            224, 
+            13, 
+            248
+        ]
+    ], 
+    "VolumeExtra": 4665.99, 
+    "VolumeIntra": 456.415, 
+    "VolumeWhole": 5122.405, 
+    "maxParaIntraDiameter": 8.72, 
+    "maxParaIntraDiameterCoordinates": [
+        [
+            177, 
+            40, 
+            248
+        ], 
+        [
+            195, 
+            55, 
+            248
+        ]
+    ], 
+    "maxParaExtraDiameter": 20.348, 
+    "maxParaExtraDiameterCoordinates": [
+        [
+            174, 
+            14, 
+            248
+        ], 
+        [
+            216, 
+            49, 
+            248
+        ]
+    ], 
+    "maxPerpendExtraDiameter": 17.849, 
+    "maxPerpendExtraDiameterCoordinates": [
+        [
+            192, 
+            48, 
+            248
+        ], 
+        [
+            222, 
+            12, 
+            248
+        ]
+    ]
+}
